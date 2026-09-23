@@ -1,0 +1,8 @@
+# Compiled files
+bin/
+target/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
